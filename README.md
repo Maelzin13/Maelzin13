@@ -33,4 +33,4 @@
  
   ![Snake animation](https://github.com/Maelzin13/Maelzin13/blob/output/github-contribution-grid-snake.svg)
  
-</div>**
+</div>
