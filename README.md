@@ -1,6 +1,8 @@
 ### Olá! Eu Sou o Ismael dos Santos Dias 👋
 
-- 🔭 Programador Júnior ...
+
+- 🔭 Dev Júnior ...
+- 🏠 Funcionario da Merlion TI : http://www.merlion-si.com.br/
 
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ismael-santos04/)
