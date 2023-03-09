@@ -1,3 +1,7 @@
+#
+
+![](https://media.licdn.com/dms/image/C4E16AQGrnNHyLXs-cQ/profile-displaybackgroundimage-shrink_350_1400/0/1660769789839?e=1683763200&v=beta&t=bY3p3cJO2tg-m13DbKDld6LerYT91Lurjp2VxTmufrQ)
+
 ### Olá! Eu Sou o Ismael dos Santos Dias 👋
 
 
