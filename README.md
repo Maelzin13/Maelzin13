@@ -61,34 +61,34 @@
 
 <p align="center"><b>DATABASE AND TOOLS</b></p>
 <div align="center">
-   <a href="https://www.postgresql.org/" title="PostgreSQL "target="_blank"">
+   <a href="https://www.postgresql.org/" title="PostgreSQL" target="_blank">
       <code><img src="https://skillicons.dev/icons?i=postgres" alt="postgresql" width="40" height="40"/></code>
    </a>
-   <a href="https://www.mysql.com/" title="MySql" "target="_blank">
+   <a href="https://www.mysql.com/" title="MySql" target="_blank">
       <code><img src="https://skillicons.dev/icons?i=mysql" alt="mysql" width="40" height="40"/></code>
    </a>
-   <a href="https://www.mongodb.com/" title="MongoDB" "target="_blank">
+   <a href="https://www.mongodb.com/" title="MongoDB" target="_blank">
       <code><img src="https://skillicons.dev/icons?i=mongodb" alt="mongodb" width="40" height="40"/></code>
    </a>
-    <a href="https://www.sqlite.org/index.html" title="Sqlite3" "target="_blank">
+    <a href="https://www.sqlite.org/index.html" title="Sqlite3" target="_blank">
       <code><img src="https://skillicons.dev/icons?i=sqlite" alt="sqlite" width="40" height="40"/></code>
    </a>
-   <a href="https://firebase.google.com" title="Firebase" "target="_blank">
+   <a href="https://firebase.google.com" title="Firebase" target="_blank"">
       <code><img src="https://skillicons.dev/icons?i=firebase" alt="firebase" width="40" height="40"/></code>
    </a>
-   <a href="https://redis.io/" title="Redis" "target="_blank">
+   <a href="https://redis.io/" title="Redis" target="_blank">
       <code><img src="https://skillicons.dev/icons?i=redis" alt="redis" width="40" height="40"/></code>
    </a>
-   <a href="https://visualstudio.microsoft.com/pt-br/downloads/" title="Visual Studio" "target="_blank">
+   <a href="https://visualstudio.microsoft.com/pt-br/downloads/" title="Visual Studio" target="_blank">
       <code><img src="https://skillicons.dev/icons?i=visualstudio" alt="visualstudio" width="40" height="40"/></code>
    </a>
-   <a href="https://code.visualstudio.com/" title="VSCode" "target="_blank">
+   <a href="https://code.visualstudio.com/" title="VSCode" target="_blank">
       <code><img src="https://skillicons.dev/icons?i=vscode" alt="vscode" width="40" height="40"/></code>
    </a>
    <a href="https://git-scm.com/" title="Git" "target="_blank">
       <code><img src="https://skillicons.dev/icons?i=git" alt="git" width="40" height="40"/></code>
    </a>
-   <a href="https://spring.io/tools" title="Spring Tools Suite" "target="_blank">
+   <a href="https://spring.io/tools" title="Spring Tools Suite" target="_blank">
         <code><img src="https://img.icons8.com/color/48/000000/spring-logo.png" alt="Spring Tools Suite" width="40" height="40"/></code>
    </a>
 </div>
@@ -97,16 +97,16 @@
 
 <p align="center"><b>Como entrar em contato comigo</b></p>
 <div align="center">
-    <a href="https://www.linkedin.com/in/ismael-santos04/" title="LinkedIn" "target="_blank">
+    <a href="https://www.linkedin.com/in/ismael-santos04/" title="LinkedIn" target="_blank">
       <code><img src="https://img.icons8.com/color/96/000000/linkedin.png" alt="LinkedIn" width="60" height="60"/></code>
     </a>
     <a href="https://www.gmail.com/" title="Gmail" " target="_blank">
       <code><img src="https://img.icons8.com/color/96/000000/gmail.png" alt="Gmail" width="60" height="60"/></code>
     </a>
-    <a href="https://www.instagram.com/@madldias_/" title="Instagram" "target="_blank">
+    <a href="https://www.instagram.com/@madldias_/" title="Instagram" target="_blank"">
       <code><img src="https://img.icons8.com/color/96/000000/instagram-new.png" alt="Instagram" width="60" height="60"/></code>
     </a>
-    <a href="https://www.twitch.tv.com/" title="Twitch" "target="_blank">
+    <a href="https://www.twitch.tv.com/" title="Twitch" target="_blank">
       <code><img src="https://img.icons8.com/color/96/000000/twitch--v1.png" alt="Twitch" width="60" height="60"/></code>
     </a>
 </div>
