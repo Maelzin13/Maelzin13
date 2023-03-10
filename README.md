@@ -103,9 +103,9 @@
     <a href="https://www.gmail.com/" title="Gmail" " target="_blank">
       <code><img src="https://img.icons8.com/color/96/000000/gmail.png" alt="Gmail" width="60" height="60"/></code>
     </a>
-    <a href="https://www.instagram.com/@madldias_/" title="Instagram" target="_blank"">
-      <code><img src="https://img.icons8.com/color/96/000000/instagram-new.png" alt="Instagram" width="60" height="60"/></code>
-    </a>
+    <a href="https://www.instagram.com/@madldias_/" title="Instagram" target="_blank">
+     <code><img src="https://img.icons8.com/color/96/000000/instagram-new.png" alt="Instagram" width="60" height="60"/></code>
+   </a>
     <a href="https://www.twitch.tv.com/" title="Twitch" target="_blank">
       <code><img src="https://img.icons8.com/color/96/000000/twitch--v1.png" alt="Twitch" width="60" height="60"/></code>
     </a>
