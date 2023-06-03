@@ -1,17 +1,15 @@
 #
+![](https://)
 
-![](https://media.licdn.com/dms/image/C4E16AQGrnNHyLXs-cQ/profile-displaybackgroundimage-shrink_350_1400/0/1660769789839?e=1683763200&v=beta&t=bY3p3cJO2tg-m13DbKDld6LerYT91Lurjp2VxTmufrQ)
+#### I'm a brazilian Front-End Developer
 
-### Olá! Eu Sou o Ismael dos Santos Dias 👋
-
-
-- 🔭 Dev Júnior ...
-- 🏠 Funcionario da Merlion TI : http://www.merlion-si.com.br/
+<div align="center"> 
+ <h1 align="center">BEM VINDO AO MEU <img src="https://skillicons.dev/icons?i=github" alt="github" width="40" height="40" style="margin-left: 10px;"/></h1>
+</div>
 
 
 ## Tecnologias que uso no  meu dia 
 
- #
 </div>
 <br>
 <p align="center"><b>LANGUAGES</b></p>
@@ -37,11 +35,11 @@
 
 <p align="center"><b>FRAMEWORKS E LIBRARIES</b></p>
 <div align="center">
-   <a href="https://laravel.com/" title="Laravel">
-      <code><img src="https://skillicons.dev/icons?i=laravel" alt="laravel" width="40" height="40"/></code>
-   </a>
    <a href="https://pt-br.reactjs.org/" title="ReactJS">
       <code><img src="https://skillicons.dev/icons?i=react" alt="reacjs" width="40" height="40"/></code>
+   </a>
+   <a href="https://pt-br.reactjs.org/" title="Angular">
+      <code><img src="https://skillicons.dev/icons?i=angular" alt="reacjs" width="40" height="40"/></code>
    </a>
    <a href="https://vuejs.org/" title="VueJS">
       <code><img src="https://skillicons.dev/icons?i=vue" alt="vuejs" width="40" height="40"/></code>
@@ -52,6 +50,27 @@
    <a href="https://babeljs.io/" title="Babel">
       <code><img src="https://skillicons.dev/icons?i=babel" alt="babel" width="40" height="40"/></code>
    </a>
+   <a href="https://babeljs.io/" title="Gradles">
+      <code><img src="https://skillicons.dev/icons?i=gradle" alt="gradle" width="40" height="40"/></code>
+   </a>
+  <a href="https://babeljs.io/" title="Material UI">
+      <code><img src="https://skillicons.dev/icons?i=materialui" alt="materialui" width="40" height="40"/></code>
+   </a>
+</div>
+<p>&nbsp;</p>
+<div align="center">
+   <a href="https://developer.mozilla.org/pt-BR/docs/Web/CSS" title="SCSS">
+      <code><img src="https://skillicons.dev/icons?i=sass" alt="sass" width="40" height="40"/></code>
+   </a>
+   <a href="https://developer.mozilla.org/pt-BR/docs/Web/CSS" title="TAILWIND">
+        <code><img src="https://skillicons.dev/icons?i=tailwind" alt="tailwind" width="40" height="40"/></code>
+     </a>
+   <a href="https://developer.mozilla.org/pt-BR/docs/Web/CSS" title="wordpress">
+        <code><img src="https://skillicons.dev/icons?i=wordpress" alt="wordpress" width="40" height="40"/></code>
+     </a>
+   <a href="https://developer.mozilla.org/pt-BR/docs/Web/CSS" title="CSS3">
+      <code><img src="https://skillicons.dev/icons?i=css" alt="css3" width="40" height="40"/></code>
+   </a>
 </div>
 
 <p>&nbsp;</p>
@@ -61,11 +80,11 @@
    <a href="https://www.postgresql.org/" title="PostgreSQL" target="_blank">
       <code><img src="https://skillicons.dev/icons?i=postgres" alt="postgresql" width="40" height="40"/></code>
    </a>
+   <a href="https://www.postgresql.org/" title="Android Studio" target="_blank">
+      <code><img src="https://skillicons.dev/icons?i=androidstudio" alt="androidstudio" width="40" height="40"/></code>
+   </a>
    <a href="https://www.mysql.com/" title="MySql" target="_blank">
       <code><img src="https://skillicons.dev/icons?i=mysql" alt="mysql" width="40" height="40"/></code>
-   </a>
-   <a href="https://www.mongodb.com/" title="MongoDB" target="_blank">
-      <code><img src="https://skillicons.dev/icons?i=mongodb" alt="mongodb" width="40" height="40"/></code>
    </a>
     <a href="https://www.sqlite.org/index.html" title="Sqlite3" target="_blank">
       <code><img src="https://skillicons.dev/icons?i=sqlite" alt="sqlite" width="40" height="40"/></code>
@@ -76,23 +95,35 @@
    <a href="https://redis.io/" title="Redis" target="_blank">
       <code><img src="https://skillicons.dev/icons?i=redis" alt="redis" width="40" height="40"/></code>
    </a>
-   <a href="https://visualstudio.microsoft.com/pt-br/downloads/" title="Visual Studio" target="_blank">
+   <a href="https://visualstudio.microsoft.com" title="Visual Studio" target="_blank">
       <code><img src="https://skillicons.dev/icons?i=visualstudio" alt="visualstudio" width="40" height="40"/></code>
    </a>
-   <a href="https://code.visualstudio.com/" title="VSCode" target="_blank">
+    <a href="https://visualstudio.microsoft.com" title="Jankins" target="_blank">
+      <code><img src="https://skillicons.dev/icons?i=jenkins" alt="jenkins" width="40" height="40"/></code>
+   </a>   
+</div>
+<p>&nbsp;</p>
+<div align="center">
+   <a href="https://code.visualstudio.com" title="VSCode" target="_blank">
       <code><img src="https://skillicons.dev/icons?i=vscode" alt="vscode" width="40" height="40"/></code>
+   </a>
+   <a href="https://code.visualstudio.com" title="Post Man" target="_blank">
+      <code><img src="https://skillicons.dev/icons?i=postman" alt="postman" width="40" height="40"/></code>
    </a>
    <a href="https://git-scm.com/" title="Git" "target="_blank">
       <code><img src="https://skillicons.dev/icons?i=git" alt="git" width="40" height="40"/></code>
    </a>
    <a href="https://spring.io/tools" title="Spring Tools Suite" target="_blank">
-        <code><img src="https://img.icons8.com/color/48/000000/spring-logo.png" alt="Spring Tools Suite" width="40" height="40"/></code>
+       <code><img src="https://img.icons8.com/color/48/000000/spring-logo.png" alt="Spring Tools Suite" width="40" height="40"/></code>
    </a>
-</div>
+   <a href="https://code.visualstudio.com" title="GitLAb" target="_blank">
+      <code><img src="https://skillicons.dev/icons?i=gitlab" alt="gitlab" width="40" height="40"/></code>
+   </a>
+ </div>
 
 <p>&nbsp;</p>
 
-<p align="center"><b>Como entrar em contato comigo</b></p>
+<p align="center"><b>How to contact me</b></p>
 <div align="center">
     <a href="https://www.linkedin.com/in/ismael-santos04/" title="LinkedIn" target="_blank">
       <code><img src="https://img.icons8.com/color/96/000000/linkedin.png" alt="LinkedIn" width="60" height="60"/></code>
@@ -103,9 +134,12 @@
     <a href="https://www.instagram.com/@madldias_/" title="Instagram" target="_blank">
      <code><img src="https://img.icons8.com/color/96/000000/instagram-new.png" alt="Instagram" width="60" height="60"/></code>
    </a>
-    <a href="https://www.twitch.tv.com/" title="Twitch" target="_blank">
-      <code><img src="https://img.icons8.com/color/96/000000/twitch--v1.png" alt="Twitch" width="60" height="60"/></code>
-    </a>
+   <a href="https://www.twitch.tv.com/" title="Twitch" target="_blank">
+     <code><img src="https://img.icons8.com/color/96/000000/twitch--v1.png" alt="Twitch" width="60" height="60"/></code>
+   </a>
+    <a href="https://" title="Twitch" target="_blank">
+     <code><img src="https://img.icons8.com/color/96/000000/discord.png" alt="discord" width="60" height="60"/></code>
+   </a>
 </div>
 
 <p>&nbsp;</p>
