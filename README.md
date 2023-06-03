@@ -25,9 +25,6 @@
    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" title="Javascript">
       <code><img src="https://skillicons.dev/icons?i=js" alt="Javascript" width="40" height="40"/></code>
    </a>
-   <a href="https://www.php.net/" title="PHP">
-      <code><img src="https://skillicons.dev/icons?i=php" alt="php" width="40" height="40"/></code>
-   </a>
    <a href="https://nodejs.org" title="NodeJS">
       <code><img src="https://skillicons.dev/icons?i=nodejs" alt="nodejs" width="40" height="40"/></code>
    </a>
