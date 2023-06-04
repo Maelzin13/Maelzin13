@@ -1,14 +1,14 @@
 #
-![](https://)
+![](https://raw.githubusercontent.com/Maelzin13/Maelzin13/main/.assets/Foto.png)
 
-#### I'm a brazilian Front-End Developer
+## I'm a brazilian Front-End Developer
 
 <div align="center"> 
  <h1 align="center">BEM VINDO AO MEU <img src="https://skillicons.dev/icons?i=github" alt="github" width="40" height="40" style="margin-left: 10px;"/></h1>
 </div>
 
 
-## Tecnologias que uso no  meu dia 
+## Technologies I use in my day 
 
 </div>
 <br>
@@ -53,7 +53,7 @@
    <a href="https://babeljs.io/" title="Gradles">
       <code><img src="https://skillicons.dev/icons?i=gradle" alt="gradle" width="40" height="40"/></code>
    </a>
-  <a href="https://babeljs.io/" title="Material UI">
+   <a href="https://babeljs.io/" title="Material UI">
       <code><img src="https://skillicons.dev/icons?i=materialui" alt="materialui" width="40" height="40"/></code>
    </a>
 </div>
@@ -64,12 +64,9 @@
    </a>
    <a href="https://developer.mozilla.org/pt-BR/docs/Web/CSS" title="TAILWIND">
         <code><img src="https://skillicons.dev/icons?i=tailwind" alt="tailwind" width="40" height="40"/></code>
-     </a>
+   </a>
    <a href="https://developer.mozilla.org/pt-BR/docs/Web/CSS" title="wordpress">
         <code><img src="https://skillicons.dev/icons?i=wordpress" alt="wordpress" width="40" height="40"/></code>
-     </a>
-   <a href="https://developer.mozilla.org/pt-BR/docs/Web/CSS" title="CSS3">
-      <code><img src="https://skillicons.dev/icons?i=css" alt="css3" width="40" height="40"/></code>
    </a>
 </div>
 
