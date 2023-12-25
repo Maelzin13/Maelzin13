@@ -1,7 +1,7 @@
 #
 ![](https://raw.githubusercontent.com/Maelzin13/Maelzin13/main/.assets/Foto.png)
 
-## I'm a brazilian Front-End Developer
+## I'm a brazilian Developer
 
 <div align="center"> 
  <h1 align="center">BEM VINDO</h1>
