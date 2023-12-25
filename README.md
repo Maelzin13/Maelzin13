@@ -4,7 +4,7 @@
 ## I'm a brazilian Front-End Developer
 
 <div align="center"> 
- <h1 align="center">BEM VINDO AO MEU <img src="https://skillicons.dev/icons?i=github" alt="github" width="40" height="40" style="margin-left: 10px;"/></h1>
+ <h1 align="center">BEM VINDO</h1>
 </div>
 
 
