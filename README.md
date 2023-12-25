@@ -15,10 +15,10 @@
 <p align="center"><b>LANGUAGES</b></p>
 <div align="center">
    <a href="https://developer.mozilla.org/pt-BR/docs/Web/HTML" title="HTML5">
-      <code><img src="https://skillicons.dev/icons?i=html" alt="html5" width="40" height="40"/></code>
+      <code><img src="https://skillicons.dev/icons?i=php" alt="html5" width="40" height="40"/></code>
    </a>
    <a href="https://developer.mozilla.org/pt-BR/docs/Web/CSS" title="CSS3">
-      <code><img src="https://skillicons.dev/icons?i=css" alt="css3" width="40" height="40"/></code>
+      <code><img src="https://skillicons.dev/icons?i=java" alt="java" width="40" height="40"/></code>
    </a>
    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" title="Javascript">
       <code><img src="https://skillicons.dev/icons?i=js" alt="Javascript" width="40" height="40"/></code>
@@ -44,6 +44,18 @@
    <a href="https://vuejs.org/" title="VueJS">
       <code><img src="https://skillicons.dev/icons?i=vue" alt="vuejs" width="40" height="40"/></code>
    </a>
+   <a href="https://vuejs.org/" title="Vite">
+      <code><img src="https://skillicons.dev/icons?i=nextjs" alt="nextjs" width="40" height="40"/></code>
+   </a>
+   <a href="https://vuejs.org/" title="Nest">
+      <code><img src="https://skillicons.dev/icons?i=nestjs" alt="nestjs" width="40" height="40"/></code>
+   </a>  
+</div>
+<p>&nbsp;</p>
+<div align="center">
+   <a href="https://vuejs.org/" title="Next">
+      <code><img src="https://skillicons.dev/icons?i=vite" alt="vite" width="40" height="40"/></code>
+   </a>  
    <a href="https://getbootstrap.com/" title="Bootstrap">
       <code><img src="https://skillicons.dev/icons?i=bootstrap" alt="bootstrap" width="40" height="40"/></code>
    </a>  
@@ -59,6 +71,9 @@
 </div>
 <p>&nbsp;</p>
 <div align="center">
+   <a href="https://developer.mozilla.org/pt-BR/docs/Web/CSS" title="CSS3">
+      <code><img src="https://skillicons.dev/icons?i=laravel" alt="laravel" width="40" height="40"/></code>
+   </a>
    <a href="https://sass-lang.com/" title="SCSS">
       <code><img src="https://skillicons.dev/icons?i=sass" alt="sass" width="40" height="40"/></code>
    </a>
@@ -80,6 +95,9 @@
    <a href="https://developer.android.com/studio" title="Android Studio" target="_blank">
       <code><img src="https://skillicons.dev/icons?i=androidstudio" alt="androidstudio" width="40" height="40"/></code>
    </a>
+   <a href="https://developer.android.com/studio" title="Prisma" target="_blank">
+      <code><img src="https://skillicons.dev/icons?i=prisma" alt="prisma" width="40" height="40"/></code>
+   </a>
    <a href="https://www.mysql.com/" title="MySql" target="_blank">
       <code><img src="https://skillicons.dev/icons?i=mysql" alt="mysql" width="40" height="40"/></code>
    </a>
@@ -92,10 +110,8 @@
    <a href="https://redis.io/" title="Redis" target="_blank">
       <code><img src="https://skillicons.dev/icons?i=redis" alt="redis" width="40" height="40"/></code>
    </a>
-   <a href="https://visualstudio.microsoft.com" title="Visual Studio" target="_blank">
-      <code><img src="https://skillicons.dev/icons?i=visualstudio" alt="visualstudio" width="40" height="40"/></code>
-   </a>
-    <a href="https://www.jenkins.io/" title="Jankins" target="_blank">
+   
+   <a href="https://www.jenkins.io/" title="Jankins" target="_blank">
       <code><img src="https://skillicons.dev/icons?i=jenkins" alt="jenkins" width="40" height="40"/></code>
    </a>   
 </div>
