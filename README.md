@@ -1,167 +1,178 @@
-#
-![](https://raw.githubusercontent.com/Maelzin13/Maelzin13/main/.assets/Foto.png)
+# <div align="center">BEM-VINDO</div>
 
-## I'm a brazilian Developer
-
-<div align="center"> 
- <h1 align="center">BEM VINDO</h1>
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Maelzin13/Maelzin13/main/.assets/Foto.png" alt="Foto de Ismael" />
 </div>
 
+## I'm a Brazilian Developer
 
-## Technologies I use in my day 
+Sou desenvolvedor fullstack brasileiro, apaixonado por tecnologia, interfaces modernas, backend robusto e construção de soluções úteis para pessoas e negócios.
 
-</div>
-<br>
+---
+
+## Technologies I use in my day
+
 <p align="center"><b>LANGUAGES</b></p>
 <div align="center">
-   <a href="https://developer.mozilla.org/pt-BR/docs/Web/HTML" title="HTML5">
-      <code><img src="https://skillicons.dev/icons?i=php" alt="html5" width="40" height="40"/></code>
-   </a>
-   <a href="https://developer.mozilla.org/pt-BR/docs/Web/CSS" title="CSS3">
-      <code><img src="https://skillicons.dev/icons?i=java" alt="java" width="40" height="40"/></code>
-   </a>
-   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" title="Javascript">
-      <code><img src="https://skillicons.dev/icons?i=js" alt="Javascript" width="40" height="40"/></code>
-   </a>
-   <a href="https://nodejs.org" title="NodeJS">
-      <code><img src="https://skillicons.dev/icons?i=nodejs" alt="nodejs" width="40" height="40"/></code>
-   </a>
-   <a href="https://www.typescriptlang.org/" title="TypeScript">
-    <code><img src="https://img.icons8.com/color/48/000000/typescript.png" alt="TypeScript" width="40" height="40"/></code>
-   </a>
+  <a href="https://www.php.net/" title="PHP" target="_blank">
+    <code><img src="https://skillicons.dev/icons?i=php" alt="PHP" width="40" height="40"/></code>
+  </a>
+  <a href="https://www.java.com/" title="Java" target="_blank">
+    <code><img src="https://skillicons.dev/icons?i=java" alt="Java" width="40" height="40"/></code>
+  </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" title="JavaScript" target="_blank">
+    <code><img src="https://skillicons.dev/icons?i=js" alt="JavaScript" width="40" height="40"/></code>
+  </a>
+  <a href="https://nodejs.org/" title="Node.js" target="_blank">
+    <code><img src="https://skillicons.dev/icons?i=nodejs" alt="Node.js" width="40" height="40"/></code>
+  </a>
+  <a href="https://www.typescriptlang.org/" title="TypeScript" target="_blank">
+    <code><img src="https://skillicons.dev/icons?i=ts" alt="TypeScript" width="40" height="40"/></code>
+  </a>
 </div>
 
 <p>&nbsp;</p>
 
-<p align="center"><b>FRAMEWORKS E LIBRARIES</b></p>
+<p align="center"><b>FRAMEWORKS AND LIBRARIES</b></p>
 <div align="center">
-   <a href="https://pt-br.reactjs.org/" title="ReactJS">
-      <code><img src="https://skillicons.dev/icons?i=react" alt="reacjs" width="40" height="40"/></code>
-   </a>
-   <a href="https://pt-br.reactjs.org/" title="Angular">
-      <code><img src="https://skillicons.dev/icons?i=angular" alt="reacjs" width="40" height="40"/></code>
-   </a>
-   <a href="https://vuejs.org/" title="VueJS">
-      <code><img src="https://skillicons.dev/icons?i=vue" alt="vuejs" width="40" height="40"/></code>
-   </a>
-   <a href="https://vuejs.org/" title="Vite">
-      <code><img src="https://skillicons.dev/icons?i=nextjs" alt="nextjs" width="40" height="40"/></code>
-   </a>
-   <a href="https://vuejs.org/" title="Nest">
-      <code><img src="https://skillicons.dev/icons?i=nestjs" alt="nestjs" width="40" height="40"/></code>
-   </a>  
+  <a href="https://react.dev/" title="React" target="_blank">
+    <code><img src="https://skillicons.dev/icons?i=react" alt="React" width="40" height="40"/></code>
+  </a>
+  <a href="https://angular.dev/" title="Angular" target="_blank">
+    <code><img src="https://skillicons.dev/icons?i=angular" alt="Angular" width="40" height="40"/></code>
+  </a>
+  <a href="https://vuejs.org/" title="Vue.js" target="_blank">
+    <code><img src="https://skillicons.dev/icons?i=vue" alt="Vue.js" width="40" height="40"/></code>
+  </a>
+  <a href="https://nextjs.org/" title="Next.js" target="_blank">
+    <code><img src="https://skillicons.dev/icons?i=nextjs" alt="Next.js" width="40" height="40"/></code>
+  </a>
+  <a href="https://nestjs.com/" title="NestJS" target="_blank">
+    <code><img src="https://skillicons.dev/icons?i=nestjs" alt="NestJS" width="40" height="40"/></code>
+  </a>
 </div>
+
 <p>&nbsp;</p>
+
 <div align="center">
-   <a href="https://vuejs.org/" title="Next">
-      <code><img src="https://skillicons.dev/icons?i=vite" alt="vite" width="40" height="40"/></code>
-   </a>  
-   <a href="https://getbootstrap.com/" title="Bootstrap">
-      <code><img src="https://skillicons.dev/icons?i=bootstrap" alt="bootstrap" width="40" height="40"/></code>
-   </a>  
-   <a href="https://babeljs.io/" title="Babel">
-      <code><img src="https://skillicons.dev/icons?i=babel" alt="babel" width="40" height="40"/></code>
-   </a>
-   <a href="https://gradle.org/" title="Gradles">
-      <code><img src="https://skillicons.dev/icons?i=gradle" alt="gradle" width="40" height="40"/></code>
-   </a>
-   <a href="https://mui.com/material-ui/" title="Material UI">
-      <code><img src="https://skillicons.dev/icons?i=materialui" alt="materialui" width="40" height="40"/></code>
-   </a>
+  <a href="https://vitejs.dev/" title="Vite" target="_blank">
+    <code><img src="https://skillicons.dev/icons?i=vite" alt="Vite" width="40" height="40"/></code>
+  </a>
+  <a href="https://getbootstrap.com/" title="Bootstrap" target="_blank">
+    <code><img src="https://skillicons.dev/icons?i=bootstrap" alt="Bootstrap" width="40" height="40"/></code>
+  </a>
+  <a href="https://babeljs.io/" title="Babel" target="_blank">
+    <code><img src="https://skillicons.dev/icons?i=babel" alt="Babel" width="40" height="40"/></code>
+  </a>
+  <a href="https://gradle.org/" title="Gradle" target="_blank">
+    <code><img src="https://skillicons.dev/icons?i=gradle" alt="Gradle" width="40" height="40"/></code>
+  </a>
+  <a href="https://mui.com/" title="Material UI" target="_blank">
+    <code><img src="https://skillicons.dev/icons?i=materialui" alt="Material UI" width="40" height="40"/></code>
+  </a>
 </div>
+
 <p>&nbsp;</p>
+
 <div align="center">
-   <a href="https://developer.mozilla.org/pt-BR/docs/Web/CSS" title="CSS3">
-      <code><img src="https://skillicons.dev/icons?i=laravel" alt="laravel" width="40" height="40"/></code>
-   </a>
-   <a href="https://sass-lang.com/" title="SCSS">
-      <code><img src="https://skillicons.dev/icons?i=sass" alt="sass" width="40" height="40"/></code>
-   </a>
-   <a href="https://tailwindcss.com/" title="TAILWIND">
-        <code><img src="https://skillicons.dev/icons?i=tailwind" alt="tailwind" width="40" height="40"/></code>
-   </a>
-   <a href="https://br.wordpress.org/" title="wordpress">
-        <code><img src="https://skillicons.dev/icons?i=wordpress" alt="wordpress" width="40" height="40"/></code>
-   </a>
+  <a href="https://laravel.com/" title="Laravel" target="_blank">
+    <code><img src="https://skillicons.dev/icons?i=laravel" alt="Laravel" width="40" height="40"/></code>
+  </a>
+  <a href="https://sass-lang.com/" title="Sass" target="_blank">
+    <code><img src="https://skillicons.dev/icons?i=sass" alt="Sass" width="40" height="40"/></code>
+  </a>
+  <a href="https://tailwindcss.com/" title="Tailwind CSS" target="_blank">
+    <code><img src="https://skillicons.dev/icons?i=tailwind" alt="Tailwind CSS" width="40" height="40"/></code>
+  </a>
+  <a href="https://wordpress.org/" title="WordPress" target="_blank">
+    <code><img src="https://skillicons.dev/icons?i=wordpress" alt="WordPress" width="40" height="40"/></code>
+  </a>
 </div>
 
 <p>&nbsp;</p>
 
 <p align="center"><b>DATABASE AND TOOLS</b></p>
 <div align="center">
-   <a href="https://www.postgresql.org/" title="PostgreSQL" target="_blank">
-      <code><img src="https://skillicons.dev/icons?i=postgres" alt="postgresql" width="40" height="40"/></code>
-   </a>
-   <a href="https://developer.android.com/studio" title="Android Studio" target="_blank">
-      <code><img src="https://skillicons.dev/icons?i=androidstudio" alt="androidstudio" width="40" height="40"/></code>
-   </a>
-   <a href="https://developer.android.com/studio" title="Prisma" target="_blank">
-      <code><img src="https://skillicons.dev/icons?i=prisma" alt="prisma" width="40" height="40"/></code>
-   </a>
-   <a href="https://www.mysql.com/" title="MySql" target="_blank">
-      <code><img src="https://skillicons.dev/icons?i=mysql" alt="mysql" width="40" height="40"/></code>
-   </a>
-    <a href="https://www.sqlite.org/index.html" title="Sqlite3" target="_blank">
-      <code><img src="https://skillicons.dev/icons?i=sqlite" alt="sqlite" width="40" height="40"/></code>
-   </a>
-   <a href="https://firebase.google.com" title="Firebase" target="_blank"">
-      <code><img src="https://skillicons.dev/icons?i=firebase" alt="firebase" width="40" height="40"/></code>
-   </a>
-   <a href="https://redis.io/" title="Redis" target="_blank">
-      <code><img src="https://skillicons.dev/icons?i=redis" alt="redis" width="40" height="40"/></code>
-   </a>
-   
-   <a href="https://www.jenkins.io/" title="Jankins" target="_blank">
-      <code><img src="https://skillicons.dev/icons?i=jenkins" alt="jenkins" width="40" height="40"/></code>
-   </a>   
+  <a href="https://www.postgresql.org/" title="PostgreSQL" target="_blank">
+    <code><img src="https://skillicons.dev/icons?i=postgres" alt="PostgreSQL" width="40" height="40"/></code>
+  </a>
+  <a href="https://developer.android.com/studio" title="Android Studio" target="_blank">
+    <code><img src="https://skillicons.dev/icons?i=androidstudio" alt="Android Studio" width="40" height="40"/></code>
+  </a>
+  <a href="https://www.prisma.io/" title="Prisma" target="_blank">
+    <code><img src="https://skillicons.dev/icons?i=prisma" alt="Prisma" width="40" height="40"/></code>
+  </a>
+  <a href="https://www.mysql.com/" title="MySQL" target="_blank">
+    <code><img src="https://skillicons.dev/icons?i=mysql" alt="MySQL" width="40" height="40"/></code>
+  </a>
+  <a href="https://www.sqlite.org/" title="SQLite" target="_blank">
+    <code><img src="https://skillicons.dev/icons?i=sqlite" alt="SQLite" width="40" height="40"/></code>
+  </a>
+  <a href="https://firebase.google.com/" title="Firebase" target="_blank">
+    <code><img src="https://skillicons.dev/icons?i=firebase" alt="Firebase" width="40" height="40"/></code>
+  </a>
+  <a href="https://redis.io/" title="Redis" target="_blank">
+    <code><img src="https://skillicons.dev/icons?i=redis" alt="Redis" width="40" height="40"/></code>
+  </a>
+  <a href="https://www.jenkins.io/" title="Jenkins" target="_blank">
+    <code><img src="https://skillicons.dev/icons?i=jenkins" alt="Jenkins" width="40" height="40"/></code>
+  </a>
 </div>
+
 <p>&nbsp;</p>
+
 <div align="center">
-   <a href="https://code.visualstudio.com" title="VSCode" target="_blank">
-      <code><img src="https://skillicons.dev/icons?i=vscode" alt="vscode" width="40" height="40"/></code>
-   </a>
-   <a href="https://www.postman.com/" title="Post Man" target="_blank">
-      <code><img src="https://skillicons.dev/icons?i=postman" alt="postman" width="40" height="40"/></code>
-   </a>
-   <a href="https://git-scm.com/" title="Git" "target="_blank">
-      <code><img src="https://skillicons.dev/icons?i=git" alt="git" width="40" height="40"/></code>
-   </a>
-   <a href="https://spring.io/tools" title="Spring Tools Suite" target="_blank">
-       <code><img src="https://img.icons8.com/color/48/000000/spring-logo.png" alt="Spring Tools Suite" width="40" height="40"/></code>
-   </a>
-   <a href="https://about.gitlab.com/" title="GitLab" target="_blank">
-      <code><img src="https://skillicons.dev/icons?i=gitlab" alt="gitlab" width="40" height="40"/></code>
-   </a>
- </div>
+  <a href="https://code.visualstudio.com/" title="VS Code" target="_blank">
+    <code><img src="https://skillicons.dev/icons?i=vscode" alt="VS Code" width="40" height="40"/></code>
+  </a>
+  <a href="https://www.postman.com/" title="Postman" target="_blank">
+    <code><img src="https://skillicons.dev/icons?i=postman" alt="Postman" width="40" height="40"/></code>
+  </a>
+  <a href="https://git-scm.com/" title="Git" target="_blank">
+    <code><img src="https://skillicons.dev/icons?i=git" alt="Git" width="40" height="40"/></code>
+  </a>
+  <a href="https://spring.io/tools" title="Spring" target="_blank">
+    <code><img src="https://skillicons.dev/icons?i=spring" alt="Spring" width="40" height="40"/></code>
+  </a>
+  <a href="https://about.gitlab.com/" title="GitLab" target="_blank">
+    <code><img src="https://skillicons.dev/icons?i=gitlab" alt="GitLab" width="40" height="40"/></code>
+  </a>
+</div>
 
-<p>&nbsp;</p>
+---
 
-<p align="center"><b>How to contact me</b></p>
+## How to contact me
+
 <div align="center">
-    <a href="https://www.linkedin.com/in/ismael-santos04/" title="LinkedIn" target="_blank">
-      <code><img src="https://img.icons8.com/color/96/000000/linkedin.png" alt="LinkedIn" width="60" height="60"/></code>
-    </a>
-<!--     <a href="https://www.gmail.com/" title="Gmail" " target="_blank">
-      <code><img src="https://img.icons8.com/color/96/000000/gmail.png" alt="Gmail" width="60" height="60"/></code>
-    </a> -->
+  <a href="https://www.linkedin.com/in/ismael-santos04/" title="LinkedIn" target="_blank">
+    <code><img src="https://img.icons8.com/color/96/linkedin.png" alt="LinkedIn" width="60" height="60"/></code>
+  </a>
 </div>
 
-<p>&nbsp;</p>
+---
 
-<p align="center"><b> Minhas estatísticas no GitHub</b></p>
-<div align="center"> 
-  <img src="https://github-readme-stats.vercel.app/api?username=Maelzin13&show_icons=true&theme=dracula" alt="Mael GitHub stats"/>
-</div>
-<div align="center"> 
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Maelzin13&layout=compact&langs_count=7&theme=radical" alt="Top Langs"/>
-</div>
-<!-- <div style="display: inline-block"><br/>
-    <img aling="center" alt="Html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-    <img aling="center" alt="Css3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-    <img aling="center" alt="JavaScript" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
-    <img aling="center" alt="React" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-    <img aling="center" alt="Angular" src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" />
-    <img aling="center" alt="TypeScript" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"/>
-</div><br/> -->
+## My GitHub Stats
 
-![Snake animation](https://github.com/Maelzin13/Maelzin13/blob/output/github-contribution-grid-snake.svg)
+<div align="center">
+  <img
+    height="180em"
+    src="https://github-readme-stats.vercel.app/api?username=Maelzin13&show_icons=true&theme=dracula&cache_seconds=1800"
+    alt="Ismael GitHub stats"
+  />
+</div>
+
+<div align="center">
+  <img
+    height="180em"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Maelzin13&layout=compact&langs_count=7&theme=radical&cache_seconds=1800"
+    alt="Top Languages"
+  />
+</div>
+
+---
+
+## Contributions
+
+<div align="center">
+  <img src="https://github.com/Maelzin13/Maelzin13/blob/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+</div>
