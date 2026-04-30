@@ -1,7 +1,7 @@
 # 👨‍💻 Ismael Dos Santos Dias
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Maelzin13/Maelzin13/main/.assets/Foto.png" width="150" style="border-radius: 50%" />
+  <img src="https://raw.githubusercontent.com/Maelzin13/Maelzin13/main/.assets/Foto.png" alt="Foto de Ismael" />
 </div>
 
 ---
